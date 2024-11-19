@@ -33,26 +33,26 @@ line_z, = ax3.plot([], [], 'b-', label='Z Data')
 
 # Set the limits of the axes
 ax1.set_xlim(0, 1000)
-ax1.set_ylim(-100, 100)
+ax1.set_ylim(-20, 20)
 ax2.set_xlim(0, 1000)
-ax2.set_ylim(-100, 100)
+ax2.set_ylim(-20, 20)
 ax3.set_xlim(0, 1000)
-ax3.set_ylim(-100, 100)
+ax3.set_ylim(-20, 20)
 
 # Set labels and titles
 ax1.set_title('X Data')
 ax1.set_xlabel('Time')
-ax1.set_ylabel('X Value')
+ax1.set_ylabel('X Value (m/s^2)')
 ax1.legend()
 
 ax2.set_title('Y Data')
 ax2.set_xlabel('Time')
-ax2.set_ylabel('Y Value')
+ax2.set_ylabel('Y Value (m/s^2)')
 ax2.legend()
 
 ax3.set_title('Z Data')
 ax3.set_xlabel('Time')
-ax3.set_ylabel('Z Value')
+ax3.set_ylabel('Z Value (m/s^2)')
 ax3.legend()
 
 def update_plot(frame):
