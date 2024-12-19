@@ -1,0 +1,10 @@
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:83:6:LSM6DSL_AccInit	1
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:134:6:LSM6DSL_AccDeInit	1
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:155:9:LSM6DSL_AccReadID	1
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:167:6:LSM6DSL_AccLowPower	2
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:194:6:LSM6DSL_AccReadXYZ	7
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:251:6:LSM6DSL_GyroInit	1
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:279:6:LSM6DSL_GyroDeInit	1
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:300:9:LSM6DSL_GyroReadID	1
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:312:6:LSM6DSL_GyroLowPower	2
+C:/Users/daniel_chan/Desktop/STM32CubeL4/Drivers/BSP/Components/lsm6dsl/lsm6dsl.c:339:6:LSM6DSL_GyroReadXYZAngRate	7
